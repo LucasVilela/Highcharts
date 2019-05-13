@@ -1,2 +1,0 @@
-# Highcharts
-Created with CodeSandbox
